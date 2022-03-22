@@ -108,9 +108,6 @@ Reminder web app reminds you about certain activities that you need to perform i
 a. there will be two login for user and admin
 b. user and admin can chat , post, .... etc 
 c. admin can delete the user and their post 
-
 > 2. Create an app or website on to-do ist
-
 > 3. create an application that will fetch covid pandemic growth rate in a graph
-
-> 4. Build  a voting system application that will help user to vote their favourite represents and repeated vote are not allow 
+> 4. Build a voting system application that will help user to vote their favourite represents and repeated vote are not allow 
