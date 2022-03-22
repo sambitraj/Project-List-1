@@ -101,3 +101,16 @@ Reminder web app reminds you about certain activities that you need to perform i
 
 > 1. Create a TicTakToe game webapp with 2 or multiple users functionality and also store their progress like no of games played , win or loose etc .. and display      them  in their profiles.
 > 2. Build a python application that will transform an image into its cartoon using machine learning libraries.
+
+* [Sambit Raj](https://github.com/sambitraj)
+
+> 1. Create an app or website like Facebook, Instagram.. etc. and following conditions are also be there 
+a. there will be two login for user and admin
+b. user and admin can chat , post, .... etc 
+c. admin can delete the user and their post 
+
+>2. Create an app or website on to-do ist
+
+>3. create an application that will fetch covid pandemic growth rate in a graph
+
+>4.Build  a voting system application that will help user to vote their favourite represents and repeated vote are not allow 
